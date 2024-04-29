@@ -13,6 +13,6 @@ function result = calculator(a, b, operation)
                 result = NaN; % Handle division by zero
             end
         otherwise
-            disp('Invalid operation');
+            disp('Invalida operation');
     end
 end
